@@ -15,7 +15,7 @@
 
 Paptman — это свободно распространяемая обёртка для пакетного менеджера pacman (используемого в дистрибутивах Arch Linux и производных) с синтаксисом, похожим на пакетный менеджер apt (используемый в дистрибутивах Debian и производных), **без** AUR Helper (Arch User Repository Helper).
 
-> Если вам нужен Paptman с AUR Helper, используйте проект [Paptman2]().
+> Если вам нужен Paptman с AUR Helper, используйте проект [Paptman2](https://github.com/MarkGMX8X/paptman2).
 
 ---
 
