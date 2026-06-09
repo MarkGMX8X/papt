@@ -52,3 +52,5 @@ sudo cp papt /usr/local/bin/
 ## Лицензия
 Этот проект распространяется под лицензией GNU General Public License v3.0.  
 Подробнее см. в файле [LICENSE](LICENSE).
+
+
