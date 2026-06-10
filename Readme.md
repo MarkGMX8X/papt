@@ -48,15 +48,17 @@ cd papt
 sudo cp papt /usr/local/bin/
 ```
 
-## Установка c AUR
-
+## Установка с AUR (Ручная)
 ```bash
 git clone https://aur.archlinux.org/papt.git
 cd papt
 makepkg -si
 ```
 
-
+## Установка с AUR (Через AUR Helper)
+```bash
+yay (Или другой AUR Helper) -S papt
+```
 ---
 
 
