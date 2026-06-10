@@ -17,6 +17,9 @@ Papt — это свободно распространяемая обёртка
 
 > Если вам нужен Papt с AUR Helper, используйте проект [Papt2](https://github.com/MarkGMX8X/papt2).
 
+> Стрница на [AUR](https://aur.archlinux.org/packages/papt)
+
+
 ---
 
 
@@ -45,6 +48,14 @@ cd papt
 sudo cp papt /usr/local/bin/
 ```
 
+## Установка c AUR
+
+```bash
+git clone https://aur.archlinux.org/papt.git
+cd papt
+makepkg -si
+```
+
 
 ---
 
@@ -52,5 +63,3 @@ sudo cp papt /usr/local/bin/
 ## Лицензия
 Этот проект распространяется под лицензией GNU General Public License v3.0.  
 Подробнее см. в файле [LICENSE](LICENSE).
-
-

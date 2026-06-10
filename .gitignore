@@ -1,1 +1,6 @@
+#Py files
 papt.py
+
+#AUR Files
+PKGBUILD
+.SRCINFO
